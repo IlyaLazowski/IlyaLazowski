@@ -9,7 +9,7 @@
 <a href="https://www.python.org/" target="_blank">
     <img align="left" alt="Описание изображения" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
-<a href="https:https://isocpp.org/" target="_blank">
+<a href="https://isocpp.org/" target="_blank">
     <img align="left" alt="Описание изображения" width="64px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 </a>
 <a href="https://www.iso.org/home.html" target="_blank">
