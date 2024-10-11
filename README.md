@@ -14,10 +14,6 @@
 </a>
 <br><br><br>
 
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaLazowski&layout=compact)](https://github.com/IlyaLazowski/github-readme-stats)
 ### You can contact me:
 <a href="https://t.me/werstures" target="_blank">
