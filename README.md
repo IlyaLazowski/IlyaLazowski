@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ilya Lazowski
 ## BSUIR Student
 + :email: lazowski9.21@gmail.com
-+ :ledger: English C1
++ :ledger: English B1
 ### Skils
 <a href="https://www.python.org/" target="_blank">
     <img align="left" alt="Python language" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
